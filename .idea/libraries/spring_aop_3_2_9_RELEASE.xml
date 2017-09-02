@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spring-aop-3.2.9.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-aop-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-beans-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-context-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-core-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-expression-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-web-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-webmvc-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy-client/src/webapp/WEB-INF/lib/spring-webmvc-portlet-3.2.9.RELEASE.jar!/" />
+      <root url="jar://D:/WorkSpaceBak/ydjy/src/webapp/WEB-INF/lib/slf4j-api-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
